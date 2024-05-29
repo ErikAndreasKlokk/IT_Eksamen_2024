@@ -19,6 +19,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@sanity/client": "^6.18.3"
+		"@sanity/client": "^6.18.3",
+		"@sveltejs/adapter-node": "^5.0.1"
 	}
 }
