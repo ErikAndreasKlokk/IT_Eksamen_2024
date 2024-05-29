@@ -10,12 +10,6 @@
           apiVersion: "2021-10-21",
           useCdn: false
       });
-
-      onMount(async () => {
-        // const blogArtikler = await client.fetch(`*[_type == "blogartikler"]`);
-
-        // console.log(blogArtikler)
-      })
 </script>
 
 <slot/>
