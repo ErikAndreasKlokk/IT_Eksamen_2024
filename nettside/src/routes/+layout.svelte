@@ -12,9 +12,9 @@
       });
 
       onMount(async () => {
-        const blogArtikler = await client.fetch(`*[_type == "blogartikler"]`);
+        // const blogArtikler = await client.fetch(`*[_type == "blogartikler"]`);
 
-        console.log(blogArtikler)
+        // console.log(blogArtikler)
       })
 </script>
 
