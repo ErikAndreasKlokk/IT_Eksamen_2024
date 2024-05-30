@@ -3,10 +3,7 @@
 
 ## Veiledning
 
-##### Denne nettsiden er laget med Svelte, TailwindCSS og Sanity.
-
-###### Hvis du vil klone dette prosjektet må du gjøre noen få ting for å få det til å funke.
-*Det er forventet at du har Node.js installert på maskinen*
+##### *Denne nettsiden er laget med Svelte, TailwindCSS og Sanity. Det er forventet at du har Node.js installert på maskinen*
 
 Start med å navigere deg inn i *sanity* mappen. Når du har navigert deg inn her må du skrive dette inn i terminalen;
 
@@ -48,4 +45,4 @@ npm run dev
 
 ---
 
-Nå som du har satt opp nettsiden, vil du kanskje endre litt på den. Hvis du vil lage custom schematypes (Som er det du ser når du er inne i sanity delen av prosjektet) så kan du navigere deg inn i *klokkproject* mappen. Når du er der navigerer du deg videre inn i *schemaTypes* mappen. I denne mappen ligger alle schematypesene som du kan se på sanity nettsiden. Hvis du vil lære mer om schematypes og hvordan det fungerer, anbefaler jeg å lese [sanity docs'a](https://www.sanity.io/docs/schemas-and-forms)
+Nå som du har satt opp nettsiden, vil du kanskje endre litt på den. Hvis du vil lage custom schematypes (Som er det du ser når du er inne i sanity delen av prosjektet) så kan du navigere deg inn i *sanity* mappen. Når du er der navigerer du deg videre inn i *schemaTypes* mappen. I denne mappen ligger alle schematypesene som du kan se på sanity nettsiden. Hvis du vil lære mer om schematypes og hvordan det fungerer, anbefaler jeg å lese [sanity docs'a](https://www.sanity.io/docs/schemas-and-forms)
