@@ -1,3 +1,3 @@
-import {blogArtikler} from './blogArtikler.ts'
+import { blogArtikler } from "./blogArtikler"
 
 export const schemaTypes = [blogArtikler]
