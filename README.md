@@ -1,6 +1,8 @@
 # IT_Eksamen_2024
  IT eksamen for Erik Andreas Klokk, 30. mai 2024
 
+ Dette prosjektet er en personlig bloggside for meg. Den er laget for at jeg skal kunne legge ut artikler/blogger som andre kan lese om de er interesert. Den er laget med Sanity, for backend og CMS, Svelte og TailwindCSS, for frontend, og til slutt Docker. 
+
 ## Veiledning
 
 ##### *Denne nettsiden er laget med Svelte, TailwindCSS og Sanity. Det er forventet at du har Node.js installert på maskinen*
